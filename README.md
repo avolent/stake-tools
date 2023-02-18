@@ -8,5 +8,5 @@ Set your stake token environment variable by running `export STAKE_TOKEN=XXXXXXX
 
 ## Make Commands
 
-`make local` - Installs requirements and enter python shell.
-`make requirements` - Install requirements.
+`make local` - Installs requirements and enter python shell.  
+`make requirements` - Install requirements.  
