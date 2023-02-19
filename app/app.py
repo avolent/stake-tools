@@ -1,6 +1,6 @@
 import asyncio, logging, stake
 from stake import StakeClient, SessionTokenLoginRequest
-from stake.constant import ASX
+from stake.constant import ASX, NYSE
 
 # Configuration
 EXCHANGE = ASX

@@ -5,8 +5,10 @@
 ## Setup
 
 Set your stake token environment variable by running `export STAKE_TOKEN=XXXXXXX` this can be retrieved by going to stake, clicking on watchlist, going to developer tools > Network > Watchlist api request > Headers and looking for `stake-session-token:` 
+Run `make local` to install requires and enter pyenv, then `make run` to run the script.
 
 ## Make Commands
 
 `make local` - Installs requirements and enter python shell.  
-`make requirements` - Install requirements.  
+`make requirements` - Install requirements.
+`make run`
